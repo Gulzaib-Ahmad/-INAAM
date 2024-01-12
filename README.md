@@ -12,8 +12,6 @@
 </p>
 <p>.</P>
 <table bgcolor="white" text="black " align="center">
-<style type="text/css">table ,th ,td{border: 1px solid}
-</style>
 <tr>
 <th><a href="LEVEL 1.html">VIP 1</a></th>
 <th><a href="LEVEL 2.html">VIP 2</a></th>
